@@ -13,9 +13,10 @@
 
 **Word2Vec**
 </br>
-1. https://jalammar.github.io/illustrated-word2vec/
-2. https://quomodocumque.wordpress.com/2016/01/15/messing-around-with-word2vec/
-3. https://www.tensorflow.org/tutorials/text/word2vec
+1. http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
+2. https://jalammar.github.io/illustrated-word2vec/
+3. https://quomodocumque.wordpress.com/2016/01/15/messing-around-with-word2vec/
+4. https://www.tensorflow.org/tutorials/text/word2vec
 </br>
 
 **GloVe**

@@ -15,7 +15,9 @@
 
 **RNNs and LSTMs**
 </br>
-1. https://karpathy.github.io/2015/05/21/rnn-effectiveness/
-2. https://machinelearningmastery.com/crash-course-recurrent-neural-networks-deep-learning/
-3. https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/
+1. https://karpathy.github.io/2015/05/21/rnn-effectiveness/ (Highly recommended)
+2. http://colah.github.io/posts/2015-08-Understanding-LSTMs/ (Highly recommended)
+3. https://www.ibm.com/cloud/learn/recurrent-neural-networks
+4. https://machinelearningmastery.com/crash-course-recurrent-neural-networks-deep-learning/
+5. https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/
 </br>

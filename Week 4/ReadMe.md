@@ -9,8 +9,9 @@
 
 **Topic Modeling**
 </br>
-1. https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24
-2. https://aylien.com/blog/text-analysis-101-a-basic-understanding-for-business
+1. https://towardsdatascience.com/lda-topic-modeling-an-explanation-e184c90aadcd 
+2. https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24
+3. https://aylien.com/blog/text-analysis-101-a-basic-understanding-for-business
 </br>
 
 **RNNs and LSTMs**

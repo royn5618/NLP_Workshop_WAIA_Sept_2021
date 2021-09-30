@@ -4,7 +4,7 @@ Datasets contains the datasets you will require to participate in the workshop. 
 Weekly content will be posted on Week X folders. </br>
 
 
-Few NLP Datasets to Practice:
+**NLP Datasets to Practice:**
 <ol>
   <li>Coronavirus tweets NLP - Text Classification: https://www.kaggle.com/datatattle/covid-19-nlp-text-classification</li>
   <li>Automatic Environmental Reports & News Classification: https://www.kaggle.com/vbmokin/nlp-reports-news-classification</li>
